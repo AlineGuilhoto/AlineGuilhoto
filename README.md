@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Eu Sou a Aline Guilhoto.
+
+Desenolvedora em formação e apaixonada por tecnologia!
+
 <!--
 **AlineGuilhoto/AlineGuilhoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
