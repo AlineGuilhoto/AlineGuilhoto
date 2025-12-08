@@ -25,5 +25,5 @@ Sou graduada em Administração e atualmente estou direcionando minha carreira p
 ---
 
 ### 📫 Onde me encontrar
-- LinkedIn: https://linkedin.com/in/aline-guilhoto-bb0531379
+- LinkedIn: https://linkedin.com/in/aline-guilhoto
 - Email: alineguilhoto@gmail.com
