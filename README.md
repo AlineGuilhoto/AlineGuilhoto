@@ -1,21 +1,29 @@
-# 👋 Olá! Eu sou a Aline Guilhoto
+## 👋 Olá! Eu sou a Aline
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** pela FATEC Araras  
-🎯 Interesse em **estágio em desenvolvimento de software** (full stack em formação)
+🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC Araras  
+📍 Araras/SP  
+🚀 Em transição de carreira para tecnologia  
 
-Sou graduada em Administração e estou em uma transição estruturada para a área de tecnologia. Aqui compartilho projetos e exercícios desenvolvidos durante meus estudos em programação, banco de dados e desenvolvimento web.
-
----
-
-## 🚀 Tecnologias em aprendizado
-- HTML5 | CSS3 | JavaScript  
-- C++  
-- SQL e Banco de Dados  
-- Git & GitHub  
+Sou graduada em Administração e atualmente estou direcionando minha carreira para o **desenvolvimento de software**, com foco em **full stack**. Busco oportunidades de **estágio** para evoluir tecnicamente, adquirir experiência prática e contribuir com soluções de qualidade.
 
 ---
 
-## 📌 Objetivo
-Aplicar na prática os fundamentos do desenvolvimento de software, evoluindo tecnicamente e construindo uma base sólida para atuação profissional na área de tecnologia.
+### 💻 Tecnologias e Estudos
+- HTML5 | CSS3 | JavaScript
+- C++
+- SQL & Modelagem de Dados
+- Git & GitHub
+- VS Code | XAMPP | BrModelo | Figma (básico)
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/aline-guilhoto
+---
+
+### 🎯 Objetivo Atual
+- Conseguir uma oportunidade de **estágio em desenvolvimento de software**
+- Construir projetos práticos durante a graduação
+- Evoluir continuamente como desenvolvedora
+
+---
+
+### 📫 Onde me encontrar
+- LinkedIn: https://linkedin.com/in/aline-guilhoto-bb0531379
+- Email: alineguilhoto@gmail.com
